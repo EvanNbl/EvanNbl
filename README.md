@@ -45,11 +45,11 @@ Développeur Frontend passionné basé à **Paris**, spécialisé dans l'écosys
 
 ## 💼 Expérience
 
-**Dev Frontend - Designer UI/UX** @ [Norphe](https://www.norphe.com) | Mars 2025 - Octobre 2025
+**Développeur Web - Designer UI/UX** @ [Norphe](https://www.norphe.com) | Mars 2025 - Octobre 2025
 - Refonte complète application mobile & site web
 - Conception UI/UX à développement frontend
 
-**Développeur Frontend** @ [Cegid (Exalog)](https://www.cegid.com) | Nov 2023 - Sept 2024
+**Développeur Web** @ [Cegid (Exalog)](https://www.cegid.com) | Nov 2023 - Sept 2024
 - Développement de solutions FinTech
 - Collaboration avec équipes UI/UX
 - Optimisation de performances web
