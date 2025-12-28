@@ -1,6 +1,5 @@
 # Hey ! 👋 Je suis Evan Noubel
 
-[![wakatime](https://wakatime.com/badge/user/31b4df67-c40c-48df-9361-d2ed83d13b74.svg)](https://wakatime.com/@31b4df67-c40c-48df-9361-d2ed83d13b74)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/evan-nbl)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:evannbl.pro@gmail.com)
 
