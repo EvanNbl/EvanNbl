@@ -57,13 +57,14 @@ Développeur Frontend passionné basé à **Paris**, spécialisé dans l'écosys
 - Collaboration avec équipes UI/UX
 - Optimisation de performances web
 
-**Designer UI/UX - Développeur Web & Mobile** @ [Cegid (Exalog)](https://www.bibisorties.com) | Sept 2022 - Nov 2023
+**Designer UI/UX - Développeur Web & Mobile** @ [Bibi sorties] | Sept 2022 - Nov 2023
 - Migration React → Next.js
 - Développement mobile avec Flutter
 - Amélioration architecture API
 
 ## 📫 Contact
 
+- 💻 Site: [evannbl.fr](https://evannbl.fr)
 - 📧 Email: [evannbl.pro@gmail.com](mailto:evannbl.pro@gmail.com)
 - 💼 LinkedIn: [Evan Noubel](https://linkedin.com/in/evan-nbl)
 - 📍 Paris, France
